@@ -52,7 +52,7 @@ Class Usuario
         {
             //entrar no sistema
             $dado = 
-parei 4:18 parte 4/5
+parei 4:18
 
 
         } 
